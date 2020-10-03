@@ -1,3 +1,5 @@
+//prim algorithm using priority queue
+//made by chungbuk-university lee dong woo
 #include<iostream>
 #include<vector>
 #include<utility>
